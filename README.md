@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jalalkhan96
+- 👋 Hi, I’m Jalal Khan
 - 👀 I’m interested in SE projects
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on Github, Youtube, Insta,Linkdin,TikTok etc.
