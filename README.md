@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on Github, Youtube, Insta,Linkdin,TikTok etc.
 - 📫 How to reach me : jalalmjk96@gmail.com
-- Available On Discord
+- 💪 Available On Discord
 - 😄 Pronouns: Khan G
 - ⚡ Fun fact: Enjoy Your Life 😃
 
