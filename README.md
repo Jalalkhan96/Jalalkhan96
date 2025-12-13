@@ -1,58 +1,76 @@
-<!-- ========================= -->
-<!--  Jalal Khan GitHub Profile -->
-<!-- ========================= -->
+<!-- =============================== -->
+<!--  Jalal Khan — Anime Red Theme   -->
+<!-- =============================== -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2N5eXJ0Y3F2Z3k3eTB0d2p2c2I2N2k4bTRsbnZ5a2s0a3F4b2p2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">⚔️ Jalal Khan ⚔️</h1>
-<h3 align="center">Software Engineering | Web • Mobile • Game Dev | Vibe Coder</h3>
+<h3 align="center">Software Engineer | Web • Mobile • Game Development</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jalalkhan96&label=Profile%20Views&color=red&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Jalalkhan96&label=PROFILE+VIEWS&color=red&style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="mailto:jalalmjk96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://www.youtube.com">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube">
+  </a>
+  <a href="https://www.instagram.com">
+    <img src="https://img.shields.io/badge/Instagram-Follow-black?style=flat-square&logo=instagram">
+  </a>
+  <a href="https://www.tiktok.com">
+    <img src="https://img.shields.io/badge/TikTok-Follow-black?style=flat-square&logo=tiktok">
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
+  </a>
 </p>
 
 ---
 
 ## 👋 About Me
 
-- 👀 Interested in **serious Software Engineering projects**
-- 🌱 Currently learning **Software Engineering (core + applied)**
-- 💞️ Looking to collaborate on **GitHub, YouTube, Instagram, LinkedIn, TikTok**
-- 📫 Contact: **jalalmjk96@gmail.com**
+- 👀 Focused on **serious Software Engineering projects**
+- 🌱 Learning **Software Engineering (core + applied)**
+- 💞️ Open to collaboration on **GitHub, YouTube, Instagram, LinkedIn, TikTok**
+- 📫 Email: **jalalmjk96@gmail.com**
 - 💪 Available on **Discord**
 - 😄 Pronouns: **Khan G**
-- ⚡ Fun fact: *Enjoy your life — but never stop improving*
+- ⚡ Fun fact: *Enjoy your life, but never stop leveling up*
 
 ---
 
-## 🧠 Expertise
+## 🧠 Technical Expertise
 
 ### 🌐 Web Development
 - HTML, CSS, JavaScript
-- React (component-driven UI)
+- React (component-based architecture)
 - Node.js, Express
 - Firebase, Supabase
-- REST APIs, Auth, Clean Architecture
+- REST APIs, authentication, clean structure
 
 ### 📱 Mobile App Development
 - Flutter / Android fundamentals
-- Firebase backend
-- UI/UX + performance focus
-- Real-world production mindset
+- Firebase backend integration
+- UI/UX optimization
+- Real-world app workflows
 
 ### 🎮 Game Development
 - Unity Engine (C#)
-- Built a **Squid Game–style game**
-- Player mechanics, scenes, animations
-- Game logic & UI systems
+- Created a **Squid Game–style multiplayer experience**
+- Game logic, mechanics, UI, animations
+- Scene & state management
 
 ### 🧪 Vibe Coding
-- Fast prototyping
+- Rapid prototyping
 - Hackathon execution
-- Idea → MVP mindset
-- Build first, refine later
+- Idea → MVP conversion
+- Builder mindset
 
 ---
 
@@ -64,25 +82,23 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (Professional Descriptions)
 
-<p align="center">
-
-<a href="https://github.com/Jalalkhan96">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jalalkhan96&repo=Squid-Game-Unity&theme=dark&border_color=ff0000" />
-</a>
-
-<a href="https://github.com/Jalalkhan96">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jalalkhan96&repo=Web-App-Project&theme=dark&border_color=ff0000" />
-</a>
-
-</p>
-
-*(Replace repo names with your actual repositories)*
+### 🎮 Squid Game (Unity)
+**Role:** Game Developer  
+**Description:**  
+A Unity-based survival game inspired by Squid Game mechanics. Implemented player movement, elimination logic, UI systems, animations, and scene transitions using C#. Designed with scalability and gameplay balance in mind.
 
 ---
 
-## 📊 GitHub Performance
+### 🌐 Full-Stack Web Application
+**Role:** Software Engineer  
+**Description:**  
+Developed a full-stack web application using React, Node.js, and Firebase. Implemented secure authentication, REST APIs, and a clean UI. Focused on performance, maintainability, and real-world usability.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jalalkhan96&show_icons=true&theme=dark&title_color=ff0000&icon_color=ff0000" height="160"/>
@@ -95,8 +111,8 @@
 
 > **“I hate those who don’t help themselves.”**
 
-No motivation without action.  
-No growth without struggle.
+Discipline beats motivation.  
+Action beats intention.
 
 ---
 
@@ -105,26 +121,8 @@ No growth without struggle.
 > **“If you don’t fight, you can’t win.”**  
 > **“I will keep moving forward… until my enemies are destroyed.”**
 
-For me, enemies are:
-- Laziness  
-- Fear  
-- Excuses  
-
----
-
-## 🤝 Collaboration
-
-Open to:
-- Open-source projects  
-- Software Engineering builds  
-- Game ideas  
-- Tech content creation  
-- Startup-level experiments  
-
-If you’re serious about building — **I’m in.**
-
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=footer&text=KEEP%20MOVING%20FORWARD&fontColor=ffffff&fontSize=24"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=footer&text=KEEP%20MOVING%20FORWARD&fontColor=ffffff&fontSize=22"/>
 </p>
