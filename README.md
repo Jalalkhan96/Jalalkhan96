@@ -42,7 +42,7 @@ const jalalkhan = {
   
 ## 🔥 Words That Ignite The Soul
 
-<img src="https://media.giphy.com/media/euMGbupTLfPsQ/giphy.gif" width="400" alt="Attack on Titan"/>
+
 
 </div>
 
@@ -99,9 +99,6 @@ const jalalkhan = {
 
 ## 🦑 Featured Project: Squid Game Recreation
 
-<div align="center">
-  
-<img src="https://media.giphy.com/media/hWvKOToEnWgdvmHVqc/giphy.gif" width="300" alt="Squid Game"/>
 
 ### 🎮 Built a complete Squid Game experience in Unity!
 
