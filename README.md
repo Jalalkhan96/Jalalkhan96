@@ -20,13 +20,7 @@ const jalalkhan = {
     currentFocus: "Software Engineering",
     funFact: "Enjoy Your Life 😃",
     
-    expertise: {
-        web: ["React", "Next.js", "Node.js", "HTML/CSS/JS", "Tailwind"],
-        mobile: ["Flutter", "React Native", "Android Studio"],
-        game: ["Unity 3D", "C#", "Game Design"],
-        other: ["Vibe Coding 🎵", "AI/ML", "Cloud Computing"]
-    },
-    
+  
     currentlyLearning: ["Advanced SE Patterns", "System Design", "DevOps"],
     
     achievements: "🦑 Created Squid Game in Unity! 🎮",
