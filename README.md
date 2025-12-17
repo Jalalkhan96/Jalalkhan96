@@ -21,7 +21,7 @@ const jalalkhan = {
     funFact: "Enjoy Your Life 😃",
     
   
-    currentlyLearning: ["Advanced SE Patterns", "System Design", "DevOps"],
+    currentlyLearning: ["DevOps"],
     
     achievements: "🦑 Created Squid Game in Unity! 🎮",
     
