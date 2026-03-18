@@ -27,13 +27,19 @@
 
 ## 🎭 About Me — *Khan G*
 
-👤 **Pronouns:** Khan G / He/Him
-🌍 **Location:** Planet Earth
-🎯 **Current Focus:** Software Engineering & DevOps
-📚 **Currently Learning:** DevOps, Cloud Architecture
-🦑 **Achievement:** Recreated Squid Game in Unity! 🎮
-💡 **Philosophy:** Code. Create. Conquer. 🔥
-😃 **Fun Fact:** Enjoy Your Life!
+<div align="center">
+
+| | |
+|:---|:---|
+| 👤 **Pronouns** | Khan G / He/Him |
+| 🌍 **Location** | Planet Earth |
+| 🎯 **Current Focus** | Software Engineering & DevOps |
+| 📚 **Learning** | DevOps, Cloud Architecture |
+| 🦑 **Achievement** | Recreated Squid Game in Unity! 🎮 |
+| 💡 **Philosophy** | Code. Create. Conquer. 🔥 |
+| 😃 **Fun Fact** | Enjoy Your Life! |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
