@@ -114,31 +114,53 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a0000,50:8B0000,100:1a0000&height=6&section=header" width="100%">
 
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a0000,50:8B0000,100:1a0000&height=6&section=header" width="100%">
+
 <div align="center">
 
 ## 🦑 Featured Project: Squid Game Recreation
-
-### Built a complete Squid Game experience in Unity
 
 </div>
 
-<div align="center">
+<table width="100%">
+<tr>
 
-## 🦑 Featured Project: Squid Game Recreation
+<td width="58%" valign="middle">
 
-### Built a complete Squid Game experience in Unity
+<h3>🦑 Featured Project: Squid Game Recreation</h3>
 
-```
+<p>
+<b>Built a complete Squid Game experience in Unity</b>
+</p>
+
+<pre>
 🔴  Red Light, Green Light   ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  Complete
 🍬  Dalgona Challenge         ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  Complete
 🔵  Marbles Game              ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  Complete
 🌉  Glass Bridge              ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  Complete
 🦑  Squid Game Final          ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  Complete
-```
+</pre>
 
-*Experience the thrill — without the consequences.*
+<p>
+<i>Experience the thrill — without the consequences.</i>
+</p>
 
-</div>
+</td>
+
+<td width="42%" align="center" valign="middle">
+
+<img
+  src="asset/sukunna1080x1808.gif"
+  width="360"
+  alt="Squid Game Recreation Gameplay"
+>
+
+</td>
+
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a0000,50:8B0000,100:1a0000&height=6&section=header" width="100%">
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a0000,50:8B0000,100:1a0000&height=6&section=header" width="100%">
 
