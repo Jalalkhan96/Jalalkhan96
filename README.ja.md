@@ -6,7 +6,7 @@
   assets/sukuna-banner.gif を作成してこのパスに合わせてください
   ═══════════════════════════════════════════════════════════
 -->
-<img src="assets/sukuna-banner.gif" width="100%" alt="Sukuna banner"/>
+<img src="assets/sukuna-banner.gif" width="100%" height="220" style="object-fit:cover;object-position:center;" alt="Sukuna banner"/>
 
 <!-- Language Toggle -->
 [![English](https://img.shields.io/badge/🇬🇧_ENGLISH-1a0000?style=for-the-badge&logoColor=white&labelColor=8B0000)](README.md)
@@ -29,7 +29,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jalalkhan96&color=8B0000&style=for-the-badge&label=%E9%A0%98%E5%9F%9F%E9%96%B2%E8%A6%A7%E6%95%B0)
+![Profile Views](https://komarev.com/ghpvc/?username=Jalalkhan96&color=8B0000&style=for-the-badge&label=PROFILE+VIEWS&base=1000)
 
 </div>
 
@@ -124,20 +124,6 @@
 ```
 
 *スリルを体験してください — リスクなしで。*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a0000,50:8B0000,100:1a0000&height=6&section=header" width="100%">
-
-<div align="center">
-
-## 📈 貢献活動
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jalalkhan96&bg_color=0D0000&color=E10600&line=E10600&point=FFD700&area=true&hide_border=true" width="100%"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
