@@ -11,7 +11,7 @@
   (Full step-by-step is in my reply below the code.)
   ═══════════════════════════════════════════════════════════
 -->
-<img src="assets/sukuna-banner.gif" width="100%" height="220" style="object-fit:cover;object-position:center;" alt="Sukuna banner"/>
+<img src="assets/sukunna1080x1808.gif" width="100%" height="220" style="object-fit:cover;object-position:center;" alt="Sukuna banner"/>
 
 <!-- Language Toggle -->
 [![English](https://img.shields.io/badge/🇬🇧_ENGLISH-8B0000?style=for-the-badge&logoColor=white&labelColor=1a0000)](README.md)
@@ -20,7 +20,7 @@
 <br/>
 
 <!-- Typing SVG - Cursed Energy Vibe -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=26&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=850&height=90&background=00000000&lines=呪術廻戦+%7C+Domain%3A+Khan+G's+Dojo;Code+.+Create+.+Conquer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=26&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=850&height=90&background=00000000&lines=呪術廻戦+%7C+Domain%3A+ABIX;Code+.+Create+.+Conquer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -42,7 +42,7 @@
 
 <div align="center">
 
-## 💀 About Me — *Khan G*
+## 💀 About Me — *ABIX*
 
 </div>
 
@@ -50,7 +50,7 @@
 
 | | |
 |:---|:---|
-| 👤 **Pronouns** | Khan G / He, Him |
+| 👤 **Pronouns** | ABIX / He, Him |
 | 🌍 **Location** | Planet Earth |
 | 🎯 **Current Focus** | Software Engineering & DevOps |
 | 📚 **Learning** | DevOps, Cloud Architecture |
@@ -120,6 +120,14 @@
 
 ### Built a complete Squid Game experience in Unity
 
+</div>
+
+<div align="center">
+
+## 🦑 Featured Project: Squid Game Recreation
+
+### Built a complete Squid Game experience in Unity
+
 ```
 🔴  Red Light, Green Light   ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  Complete
 🍬  Dalgona Challenge         ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  Complete
@@ -145,7 +153,7 @@
 | ☕ | Powered by coffee and determination |
 | 🎵 | Can't code without music |
 | 📚 | Anime taught me more than textbooks |
-| 💪 | Khan G never gives up |
+| 💪 | ABIX never gives up |
 
 </div>
 
@@ -177,6 +185,18 @@
 [![Telegram](https://img.shields.io/badge/Telegram-8B0000?style=for-the-badge&logo=telegram&logoColor=FFD700&labelColor=0D0000)](https://t.me/abixrealabix)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-8B0000?style=for-the-badge&logo=whatsapp&logoColor=FFD700&labelColor=0D0000)](https://wa.me/abixrealabix)
 [![Discord](https://img.shields.io/badge/Discord-8B0000?style=for-the-badge&logo=discord&logoColor=FFD700&labelColor=0D0000)](https://discord.com/users/itxabixofficial)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a0000,50:8B0000,100:1a0000&height=6&section=header" width="100%">
+
+<div align="center">
+
+## 🎁 Gift For Editors
+
+> A curated archive for editors — assets, presets, and resources to grab and use.
+
+[![Collab Archive](https://img.shields.io/badge/📦_Collab_Archive-8B0000?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=0D0000)](https://github.com/Jalalkhan96/collabarchive)
 
 </div>
 

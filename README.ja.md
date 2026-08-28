@@ -3,10 +3,10 @@
 <!--
   ═══════════════════════════════════════════════════════════
   📌 バナー動画をここに配置してください
-  assets/sukuna-banner.gif を作成してこのパスに合わせてください
+  assets/sukunna1080x1808.gif を作成してこのパスに合わせてください
   ═══════════════════════════════════════════════════════════
 -->
-<img src="assets/sukuna-banner.gif" width="100%" height="220" style="object-fit:cover;object-position:center;" alt="Sukuna banner"/>
+<img src="assets/sukunna1080x1808.gif" width="100%" height="220" style="object-fit:cover;object-position:center;" alt="Sukuna banner"/>
 
 <!-- Language Toggle -->
 [![English](https://img.shields.io/badge/🇬🇧_ENGLISH-1a0000?style=for-the-badge&logoColor=white&labelColor=8B0000)](README.md)
@@ -15,7 +15,7 @@
 <br/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=700&size=24&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=850&height=90&background=00000000&lines=%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6+%7C+Khan+G%E3%81%AE%E9%A0%98%E5%9F%9F;%E3%82%B3%E3%83%BC%E3%83%89%E3%83%BB%E5%89%B5%E9%80%A0%E3%83%BB%E5%88%B6%E9%9C%B8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=700&size=24&duration=3000&pause=1000&color=E10600&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=850&height=90&background=00000000&lines=%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6+%7C+Domain%3A+ABIX;%E3%82%B3%E3%83%BC%E3%83%89%E3%83%BB%E5%89%B5%E9%80%A0%E3%83%BB%E5%88%B6%E9%9C%B8)](https://git.io/typing-svg)
 
 <br/>
 
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-## 💀 自己紹介 — *Khan G*
+## 💀 自己紹介 — *ABIX*
 
 </div>
 
@@ -45,7 +45,7 @@
 
 | | |
 |:---|:---|
-| 👤 **呼び方** | Khan G / 彼 |
+| 👤 **呼び方** | ABIX / 彼 |
 | 🌍 **場所** | 地球 |
 | 🎯 **現在の関心** | ソフトウェアエンジニアリング & DevOps |
 | 📚 **学習中** | DevOps、クラウドアーキテクチャ |
@@ -115,6 +115,14 @@
 
 ### Unityで完全なイカゲーム体験を制作
 
+</div>
+
+<div align="center">
+
+## 🦑 注目プロジェクト：イカゲーム再現
+
+### Unityで完全なイカゲーム体験を制作
+
 ```
 🔴  「だるまさんがころんだ」   ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  完了
 🍬  ダルゴナチャレンジ         ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  完了
@@ -140,7 +148,7 @@
 | ☕ | コーヒーと根性で稼働中 |
 | 🎵 | 音楽なしではコードが書けない |
 | 📚 | アニメは教科書以上に学びをくれた |
-| 💪 | Khan Gは決して諦めない |
+| 💪 | ABIXは決して諦めない |
 
 </div>
 
@@ -172,6 +180,18 @@
 [![Telegram](https://img.shields.io/badge/Telegram-8B0000?style=for-the-badge&logo=telegram&logoColor=FFD700&labelColor=0D0000)](https://t.me/abixrealabix)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-8B0000?style=for-the-badge&logo=whatsapp&logoColor=FFD700&labelColor=0D0000)](https://wa.me/abixrealabix)
 [![Discord](https://img.shields.io/badge/Discord-8B0000?style=for-the-badge&logo=discord&logoColor=FFD700&labelColor=0D0000)](https://discord.com/users/itxabixofficial)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a0000,50:8B0000,100:1a0000&height=6&section=header" width="100%">
+
+<div align="center">
+
+## 🎁 エディター向けギフト
+
+> エディターのための素材アーカイブ — プリセットやリソースをぜひご活用ください。
+
+[![Collab Archive](https://img.shields.io/badge/📦_Collab_Archive-8B0000?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=0D0000)](https://github.com/Jalalkhan96/collabarchive)
 
 </div>
 
