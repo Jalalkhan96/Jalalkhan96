@@ -6,7 +6,7 @@
   assets/sukunna1080x1808.gif を作成してこのパスに合わせてください
   ═══════════════════════════════════════════════════════════
 -->
-<img src="assets/sukunna1080x1808.gif" width="100%" height="220" style="object-fit:cover;object-position:center;" alt="Sukuna banner"/>
+<img src="asset/sukuna-banner.gif" width="100%" height="220" style="object-fit:cover;object-position:center;" alt="Sukuna banner"/>
 
 <!-- Language Toggle -->
 [![English](https://img.shields.io/badge/🇬🇧_ENGLISH-1a0000?style=for-the-badge&logoColor=white&labelColor=8B0000)](README.md)
@@ -109,31 +109,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a0000,50:8B0000,100:1a0000&height=6&section=header" width="100%">
 
-<div align="center">
+<table width="100%" cellpadding="16" cellspacing="0">
+<tr>
+<td width="60%" valign="middle">
 
-## 🦑 注目プロジェクト：イカゲーム再現
+<h2>🦑 注目プロジェクト：イカゲーム再現</h2>
+<h3>Unityで完全なイカゲーム体験を制作</h3>
 
-### Unityで完全なイカゲーム体験を制作
-
-</div>
-
-<div align="center">
-
-## 🦑 注目プロジェクト：イカゲーム再現
-
-### Unityで完全なイカゲーム体験を制作
-
-```
-🔴  「だるまさんがころんだ」   ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  完了
+<pre>🔴  「だるまさんがころんだ」   ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  完了
 🍬  ダルゴナチャレンジ         ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  完了
 🔵  ビー玉ゲーム                ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  完了
 🌉  ガラス橋                    ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  完了
-🦑  イカゲーム最終戦            ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  完了
-```
+🦑  イカゲーム最終戦            ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  完了</pre>
 
-*スリルを体験してください — リスクなしで。*
-
-</div>
+<em>スリルを体験してください — リスクなしで。</em>
+</td>
+<td width="40%" align="center" valign="middle">
+<img src="asset/sukunna1080x1080.gif" width="100%" alt="Sukuna project animation" />
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a0000,50:8B0000,100:1a0000&height=6&section=header" width="100%">
 

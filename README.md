@@ -11,7 +11,7 @@
   (Full step-by-step is in my reply below the code.)
   ═══════════════════════════════════════════════════════════
 -->
-<img src="assets/sukuna-banner.gif" width="100%" height="220" style="object-fit:cover;object-position:center;" alt="Sukuna banner"/>
+<img src="asset/sukuna-banner.gif" width="100%" height="220" style="object-fit:cover;object-position:center;" alt="Sukuna banner"/>
 
 <!-- Language Toggle -->
 [![English](https://img.shields.io/badge/🇬🇧_ENGLISH-8B0000?style=for-the-badge&logoColor=white&labelColor=1a0000)](README.md)
@@ -114,53 +114,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a0000,50:8B0000,100:1a0000&height=6&section=header" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a0000,50:8B0000,100:1a0000&height=6&section=header" width="100%">
-
-<div align="center">
-
-## 🦑 Featured Project: Squid Game Recreation
-
-</div>
-
-<table width="100%">
+<table width="100%" cellpadding="16" cellspacing="0">
 <tr>
+<td width="60%" valign="middle">
 
-<td width="58%" valign="middle">
+<h2>🦑 Featured Project: Squid Game Recreation</h2>
+<h3>Built a complete Squid Game experience in Unity</h3>
 
-<h3>🦑 Featured Project: Squid Game Recreation</h3>
-
-<p>
-<b>Built a complete Squid Game experience in Unity</b>
-</p>
-
-<pre>
-🔴  Red Light, Green Light   ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  Complete
+<pre>🔴  Red Light, Green Light   ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  Complete
 🍬  Dalgona Challenge         ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  Complete
 🔵  Marbles Game              ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  Complete
 🌉  Glass Bridge              ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  Complete
-🦑  Squid Game Final          ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  Complete
-</pre>
+🦑  Squid Game Final          ━━━━━━━━━━━━━━━━━━━━━━━━  ✅  Complete</pre>
 
-<p>
-<i>Experience the thrill — without the consequences.</i>
-</p>
-
+<em>Experience the thrill — without the consequences.</em>
 </td>
-
-<td width="42%" align="center" valign="middle">
-
-<img
-  src="asset/sukunna1080x1808.gif"
-  width="360"
-  alt="Squid Game Recreation Gameplay"
->
-
+<td width="40%" align="center" valign="middle">
+<img src="asset/sukunna1080x1080.gif" width="100%" alt="Sukuna project animation" />
 </td>
-
 </tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a0000,50:8B0000,100:1a0000&height=6&section=header" width="100%">
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a0000,50:8B0000,100:1a0000&height=6&section=header" width="100%">
 
