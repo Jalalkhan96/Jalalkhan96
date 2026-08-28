@@ -1,51 +1,60 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Jalal%20Khan&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Game%20Dev&descAlignY=55&descSize=22" width="100%"/>
+<!-- Header Banner - Anime Neon Style -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=320&section=header&text=侍%20Jalal%20Khan%20侍&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%20%7C%20Full%20Stack%20Developer%20%7C%20Game%20Dev&descAlignY=52&descSize=18" width="100%"/>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=850&height=100&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Universe!;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Social Badges -->
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalalmjk96@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jalalkhan96)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalal-khan-b59444340/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abixrealabix)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/abixrealabix)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/itxabixofficial)
+<!-- Typing SVG - Anime Font Vibe -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=FF2E97&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=110&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D+%F0%9F%8C%B8+Welcome+to+my+Digital+Dojo!;Khan+G+%7C+Code+.+Create+.+Conquer+%F0%9F%94%A5;Powered+by+Anime+%26+Caffeine+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jalalkhan96&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/naruto-hand.gif" width="120" />
+
+<br/>
+
+<!-- Social Badges - Neon Anime Palette -->
+[![Gmail](https://img.shields.io/badge/Gmail-FF2E97?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0221)](mailto:jalalmjk96@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-7B2FF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221)](https://github.com/Jalalkhan96)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0221)](https://www.linkedin.com/in/jalal-khan-b59444340/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D0221)](https://t.me/abixrealabix)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D0221)](https://wa.me/abixrealabix)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D0221)](https://discord.com/users/itxabixofficial)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jalalkhan96&color=FF2E97&style=for-the-badge&label=%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E9%96%B2%E8%A6%A7%E6%95%B0)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🎭 About Me — *Khan G*
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gradient-divider.gif" width="100%">
 
 <div align="center">
 
-| | |
-|:---|:---|
-| 👤 **Pronouns** | Khan G / He/Him |
-| 🌍 **Location** | Planet Earth |
-| 🎯 **Current Focus** | Software Engineering & DevOps |
-| 📚 **Learning** | DevOps, Cloud Architecture |
-| 🦑 **Achievement** | Recreated Squid Game in Unity! 🎮 |
-| 💡 **Philosophy** | Code. Create. Conquer. 🔥 |
+## 🎴 プロフィール — *About Khan G*
+
+</div>
+
+<div align="center">
+
+| ⛩️ | ⛩️ |
+|:---:|:---|
+| 👤 **Alias** | Khan G / He, Him |
+| 🌍 **Realm** | Planet Earth |
+| 🎯 **Current Arc** | Software Engineering & DevOps |
+| 📚 **Training** | DevOps, Cloud Architecture |
+| 🦑 **S-Rank Achievement** | Recreated Squid Game in Unity! 🎮 |
+| 💡 **Nindo (Way of Life)** | Code. Create. Conquer. 🔥 |
 | 😃 **Fun Fact** | Enjoy Your Life! |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gradient-divider.gif" width="100%">
 
-<!-- Anime Quote -->
 <div align="center">
 
-## 🔥 Words That Ignite The Soul
+## 🔥 名言 — Words That Ignite The Soul
+
+<img src="https://media.giphy.com/media/vjnMkV0lVWgUE/giphy.gif" width="260"/>
 
 > ### *"I hate those who can't save themselves."*
 > ### *"Fight! If you don't fight, you can't win!"*
@@ -56,49 +65,55 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🚀 My Expertise & Skills
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gradient-divider.gif" width="100%">
 
 <div align="center">
 
-### 💻 Web Development
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/docs)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/docs/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs)
-
-### 📱 Mobile App Development
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://docs.flutter.dev/)
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/docs/getting-started)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/docs)
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/home.html)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/guides)
-
-### 🎮 Game Development
-[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://docs.unity3d.com/Manual/index.html)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://docs.blender.org/manual/en/latest/)
-
-### 🛠️ Tools & Backend
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/docs)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/docs)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
+## ⚔️ 技 — My Expertise & Skills
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
 
-## 🦑 Featured Project: Squid Game Recreation
+### 💻 Web Development — ウェブ開発
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D0221)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D0221)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D0221)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D0221)](https://www.typescriptlang.org/docs/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0D0221)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-FF2E97?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D0221)](https://nextjs.org/docs)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D0221)](https://nodejs.org/en/docs/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D0221)](https://tailwindcss.com/docs)
+
+### 📱 Mobile App Development — モバイル開発
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D0221)](https://docs.flutter.dev/)
+[![React Native](https://img.shields.io/badge/React_Native-7B2FF7?style=for-the-badge&logo=react&logoColor=white&labelColor=0D0221)](https://reactnative.dev/docs/getting-started)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0D0221)](https://developer.android.com/docs)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0D0221)](https://kotlinlang.org/docs/home.html)
+[![Dart](https://img.shields.io/badge/Dart-00D9FF?style=for-the-badge&logo=dart&logoColor=white&labelColor=0D0221)](https://dart.dev/guides)
+
+### 🎮 Game Development — ゲーム開発
+[![Unity](https://img.shields.io/badge/Unity-FF2E97?style=for-the-badge&logo=unity&logoColor=white&labelColor=0D0221)](https://docs.unity3d.com/Manual/index.html)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=0D0221)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=0D0221)](https://docs.blender.org/manual/en/latest/)
+
+### 🛠️ Tools & Backend — バックエンド
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0221)](https://docs.python.org/3/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D0221)](https://firebase.google.com/docs)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D0221)](https://www.mongodb.com/docs/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D0221)](https://git-scm.com/doc)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D0221)](https://code.visualstudio.com/docs)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D0221)](https://docs.docker.com/)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gradient-divider.gif" width="100%">
 
 <div align="center">
+
+## 🦑 注目プロジェクト — Featured Project: Squid Game Recreation
+
+<img src="https://media.giphy.com/media/W1KV7ZqfxDDXW/giphy.gif" width="260"/>
 
 ### 🎮 Built a complete Squid Game experience in Unity!
 
@@ -114,13 +129,13 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📈 Contribution Activity
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gradient-divider.gif" width="100%">
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jalalkhan96&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+## 📈 活動記録 — Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jalalkhan96&bg_color=0D0221&color=FF2E97&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 <br/>
 
@@ -129,11 +144,11 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## ⚡ Fun Facts About Me
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gradient-divider.gif" width="100%">
 
 <div align="center">
+
+## ⚡ 豆知識 — Fun Facts About Me
 
 | 🎯 | Fact |
 |:---:|:---|
@@ -146,21 +161,23 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 💭 Daily Dev Quote
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gradient-divider.gif" width="100%">
 
 <div align="center">
+
+## 💭 今日の名言 — Daily Dev Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🌐 Let's Connect & Collaborate!
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gradient-divider.gif" width="100%">
 
 <div align="center">
+
+## 🌐 繋がろう — Let's Connect & Collaborate!
+
+<img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="200"/>
 
 ### 💬 Open for Collaborations!
 
@@ -177,8 +194,8 @@
 
 </div>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+<!-- Footer - Anime Neon -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=160&section=footer&text=またね!%20またあおう!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70"/>
 
 <div align="center">
 
