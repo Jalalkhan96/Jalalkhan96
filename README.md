@@ -11,7 +11,7 @@
   (Full step-by-step is in my reply below the code.)
   ═══════════════════════════════════════════════════════════
 -->
-<img src="assets/sukunna1080x1808.gif" width="100%" height="220" style="object-fit:cover;object-position:center;" alt="Sukuna banner"/>
+<img src="assets/sukuna-banner.gif" width="100%" height="220" style="object-fit:cover;object-position:center;" alt="Sukuna banner"/>
 
 <!-- Language Toggle -->
 [![English](https://img.shields.io/badge/🇬🇧_ENGLISH-8B0000?style=for-the-badge&logoColor=white&labelColor=1a0000)](README.md)
