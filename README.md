@@ -95,7 +95,7 @@
 ### 📱 Mobile App Development
 [![Flutter](https://img.shields.io/badge/Flutter-1a0000?style=for-the-badge&logo=flutter&logoColor=E10600)](https://docs.flutter.dev/)
 [![React Native](https://img.shields.io/badge/React_Native-1a0000?style=for-the-badge&logo=react&logoColor=E10600)](https://reactnative.dev/docs/getting-started)
-[![Android](https://img.shields.io/badge/Android-1a0000?style=for-the-badge&logo=android&logoColor=E10600)](https://developer.android.com/docs)
+[![Android](https://img.shields.io/badge/Android-1a0000?style=for-the-badge&logo=android&logoColor=E10600&cacheSeconds=86400)](https://developer.android.com/docs)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1a0000?style=for-the-badge&logo=kotlin&logoColor=E10600)](https://kotlinlang.org/docs/home.html)
 [![Dart](https://img.shields.io/badge/Dart-1a0000?style=for-the-badge&logo=dart&logoColor=E10600)](https://dart.dev/guides)
 
