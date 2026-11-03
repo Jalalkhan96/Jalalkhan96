@@ -35,6 +35,10 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jalalkhan96&color=8B0000&style=for-the-badge&label=PROFILE+VIEWS&base=1000)
+<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jalalkhan96&show_icons=true&theme=dark&hide_border=true&bg_color=0d0000&title_color=E10600&icon_color=FFD700&text_color=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Jalalkhan96&theme=dark&background=0D0000&ring=E10600&fire=FFD700&currStreakLabel=FFD700)
+
 
 </div>
 
